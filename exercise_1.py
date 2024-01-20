@@ -17,3 +17,7 @@ given1_number2 = 30
 given2_number1 = 40
 given2_number2 = 30
 
+result = product_or_sum(given1_number1, given1_number2)
+print(result)
+result = product_or_sum(given2_number1, given2_number2)
+print(result)
